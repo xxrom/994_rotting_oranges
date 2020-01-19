@@ -1,0 +1,13 @@
+{
+  "name": "707_Design_Linked_List",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "scripts": {
+    "dev": "nodemon --exec 'python main.py' ./main.py"
+  }
+}
